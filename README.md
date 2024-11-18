@@ -1,4 +1,4 @@
-# Hi, I'm Anthony Paul Altafuya Zambrano 👋
+# Hi, I'm Paul Altafuya Zambrano 👋
 
 I'm an **Information Technology Engineering** student with a passion for software development. I enjoy learning new technologies and applying them to practical projects.
 
