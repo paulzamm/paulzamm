@@ -1,16 +1,17 @@
-## Hi Friends 🙋‍♂️
+# Hi, I'm Anthony Paul Altafuya Zambrano 👋
 
-<!--
-**paulzamm/paulzamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Information Technology Engineering** student with a passion for software development. I enjoy learning new technologies and applying them to practical projects.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: Java, C#, JavaScript, TypeScript
+- **Frameworks and Tools**:
+  - **Angular** (currently using Angular in my projects) and **Angular Material** for frontend development
+  - **Node.js** and **Express** for backend development
+  - **PostgreSQL** for databases
+  - **Tailwind CSS** for UI design
+- **Others**:
+  - **Git/GitHub** for version control
+  - **Insomnia** for API debugging
+
+Thanks for visiting my profile! 👨‍💻✨
