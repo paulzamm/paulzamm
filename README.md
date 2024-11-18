@@ -9,7 +9,7 @@ I'm an **Information Technology Engineering** student with a passion for softwar
   - **Angular** (currently using Angular in my projects) and **Angular Material** for frontend development
   - **Node.js** and **Express** for backend development
   - **PostgreSQL** for databases
-  - **Tailwind CSS** for UI design
+  - **Tailwind CSS - Bootsrap** for UI design
 - **Others**:
   - **Git/GitHub** for version control
   - **Insomnia** for API debugging
