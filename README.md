@@ -14,4 +14,3 @@ I'm an **Information Technology Engineering** student with a passion for softwar
   - **Git/GitHub** for version control
   - **Insomnia** for API debugging
 
-Thanks for visiting my profile! 👨‍💻✨
